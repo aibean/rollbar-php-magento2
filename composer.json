@@ -2,6 +2,7 @@
     "name": "rollbar/rollbar-magento2",
     "description": "Rollbar SDK for Magento 2",
     "type": "library",
+    "version": "2.0.0"
     "require": {
         "rollbar/rollbar": "^3"
     },
